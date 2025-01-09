@@ -1,10 +1,8 @@
 # Enhancing Bank's Personal Loan Approaches
 
-This project leverages a **Sequential neural network model** to help a bank identify customers most likely to accept personal loan offers. By analyzing demographic and financial data, such as income, credit card spending, education levels, and CD account ownership, the model provides actionable insights to streamline marketing efforts and optimize resource allocation. The project aims to increase loan acceptance rates, enhance customer satisfaction, and drive business growth.
+This project leverages a **sequential neural network model** to help a bank identify customers most likely to accept personal loan offers. By analyzing demographic and financial data—such as income, credit card spending, education level, and CD account ownership—the model provides actionable insights to optimize marketing efforts and resource allocation, increasing loan acceptance rates and driving business growth.
 
-The model achieved an impressive **98% accuracy**, with high **precision (96%)** and **recall (87%)** for loan acceptors, ensuring reliability and effectiveness. Key visualizations and metrics, including loss/accuracy plots and a confusion matrix, confirm the model's ability to generalize well and identify patterns in customer behaviour. This approach allows the bank to focus its outreach on high-probability customers, minimizing wasted efforts on less likely candidates.
-
-Future directions include integrating the model into a web application for real-time predictions, exploring additional machine-learning models for further improvement, and incorporating more granular behavioural data. By aligning data-driven decision-making with the bank's strategic goals, this project sets the foundation for more innovative, more efficient loan offerings.
+The model achieved 98% accuracy, 96% precision, and 87% recall for identifying loan acceptors, ensuring reliability and effectiveness. Key visualizations, including loss/accuracy plots and a confusion matrix, confirm the model's ability to generalize and identify patterns in customer behaviour, enabling more targeted outreach.
 
 Below are examples of the graphs included in the report's analysis.
 
