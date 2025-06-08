@@ -1,5 +1,7 @@
 # Enhancing Bank's Personal Loan Approaches
 
+**Tech Stack:** ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+
 This project leverages a **sequential neural network model** to help a bank identify customers most likely to accept personal loan offers. By analyzing demographic and financial data—such as income, credit card spending, education level, and CD account ownership—the model provides actionable insights to optimize marketing efforts and resource allocation, increasing loan acceptance rates and driving business growth.
 
 The model achieved 98% accuracy, 96% precision, and 87% recall for identifying loan acceptors, ensuring reliability and effectiveness. Key visualizations, including loss/accuracy plots and a confusion matrix, confirm the model's ability to generalize and identify patterns in customer behaviour, enabling more targeted outreach.
